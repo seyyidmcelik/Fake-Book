@@ -1,0 +1,267 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "categoryId": 1,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572292658-51IXWZzlgSL.jpg?crop=1xw:0.996xh;center,top&resize=320%3A%2A",
+            "productName": "To Kill a Mockingbird",
+            "author": "Alan Moore",
+            "price": 7
+        },
+        {
+            "id": 2,
+            "categoryId": 1,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572292680-51xJASXQJwL.jpg?crop=1.00xw:0.978xh;0,0.0120xh&resize=320%3A%2A",
+            "productName": "Little Women",
+            "author": "Louisa May Alcott",
+            "price": 12
+        },
+        {
+            "id": 3,
+            "categoryId": 1,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/41Rdzbiqh7L._SX322_BO1,204,203,200_.jpg",
+            "productName": "Beloved",
+            "author": "Toni Morrison",
+            "price": 10
+        },
+        {
+            "id": 4,
+            "categoryId": 2,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572292885-41ZJD5Dw5KL.jpg?crop=1.00xw:0.962xh;0,0.0200xh&resize=320%3A%2A",
+            "productName": "Watchmen",
+            "author": "Alan Moore",
+            "price": 12
+        },
+        {
+            "id": 5,
+            "categoryId": 2,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572292913-51S12ntkIbL.jpg?crop=1xw:0.975xh;center,top&resize=320%3A%2A",
+            "productName": "The Walking Dead: Compendium One",
+            "author": "Robert Kirkman",
+            "price": 31
+        },
+        {
+            "id": 6,
+            "categoryId": 2,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572292943-418D9yYGB3L.jpg?crop=0.900xw:1.00xh;0.0916xw,0&resize=320%3A%2A",
+            "productName": "The Boy, the Mole, the Fox and the Horse",
+            "author": "Charlie Mackesy",
+            "price": 14
+        },
+        {
+            "id": 7,
+            "categoryId": 3,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293115-41zqZwXZ-WL.jpg?crop=1.00xw:0.984xh;0,0.00600xh&resize=320%3A%2A",
+            "productName": "The Night Fire",
+            "author": "Michael Connelly",
+            "price": 13
+        },
+        {
+            "id": 8,
+            "categoryId": 3,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293468-516dZVA7rQL.jpg?crop=0.958xw:1xh;center,top&resize=320%3A%2A",
+            "productName": "The Adventures of Sherlock Holmes",
+            "author": "Sir Arthur Conan Doyle",
+            "price": 8
+        },
+        {
+            "id": 9,
+            "categoryId": 3,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293489-51MlxNgCsyL.jpg?crop=1.00xw:0.932xh;0,0.0440xh&resize=320%3A%2A",
+            "productName": "And Then There Were None",
+            "author": "Agatha Christie",
+            "price": 18
+        },
+        {
+            "id": 10,
+            "categoryId": 4,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293716-51ItgiZw5dL.jpg?crop=1xw:0.987xh;center,top&resize=320%3A%2A",
+            "productName": "The Water Dancer",
+            "author": "Ta-Nehisi Coates",
+            "price": 16
+        },
+        {
+            "id": 11,
+            "categoryId": 4,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293746-51dzuwLmm-L.jpg?crop=1.00xw:0.932xh;0,0.0540xh&resize=320%3A%2A",
+            "productName": "Circle",
+            "author": "Madeline Miller",
+            "price": 12
+        },
+        {
+            "id": 12,
+            "categoryId": 4,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/41cUxNtr5-L._SX326_BO1,204,203,200_.jpg",
+            "productName": "Ninth House",
+            "author": "Leigh Bardugo",
+            "price": 14
+        },
+        {
+            "id": 13,
+            "categoryId": 5,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572293965-51D9LgMgL.jpg?crop=1xw:0.999xh;center,top&resize=320%3A%2A",
+            "productName": "The Help",
+            "author": "Kathryn Stockett",
+            "price": 12
+        },
+        {
+            "id": 14,
+            "categoryId": 5,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/5164gibO9ZL._SX327_BO1,204,203,200_.jpg",
+            "productName": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "price": 11
+        },
+        {
+            "id": 15,
+            "categoryId": 5,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/51O9HqW8ZAL._SX322_BO1,204,203,200_.jpg",
+            "productName": "Memoirs of a Geisha",
+            "author": "Arthur Golden",
+            "price": 9
+        },
+        {
+            "id": 16,
+            "categoryId": 6,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/51dRjo8NJeL._SX296_BO1,204,203,200_.jpg",
+            "productName": "Carrie",
+            "author": "Stephen King ",
+            "price": 6
+        },
+        {
+            "id": 17,
+            "categoryId": 6,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572295266-51gyXcg1P2L.jpg?crop=1.00xw:0.974xh;0,0.0240xh&resize=320%3A%2A",
+            "productName": "The Haunting of Hill House",
+            "author": "Shirley Jackson",
+            "price": 12
+        },
+        {
+            "id": 18,
+            "categoryId": 6,
+            "picture": "https://m.media-amazon.com/images/I/41sRIihnXzL.jpg",
+            "productName": "Bird Box",
+            "author": "Josh Malerman",
+            "price": 7
+        },
+        {
+            "id": 19,
+            "categoryId": 7,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/51NYjNgldSL._SX330_BO1,204,203,200_.jpg",
+            "productName": "Where the Crawdads Sing",
+            "author": "Delia Owens",
+            "price": 11
+        },
+        {
+            "id": 20,
+            "categoryId": 7,
+            "picture": "https://m.media-amazon.com/images/I/51SOYJGewiL.jpg",
+            "productName": "Olive, Again",
+            "author": "Elizabeth Strout",
+            "price": 13
+        },
+        {
+            "id": 21,
+            "categoryId": 7,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/51R787H44EL._SX331_BO1,204,203,200_.jpg",
+            "productName": "The Dutch House: A Novel",
+            "author": "Ann Patchett",
+            "price": 11
+        },
+        {
+            "id": 22,
+            "categoryId": 8,
+            "picture": "https://m.media-amazon.com/images/I/51fiEAOae4L.jpg",
+            "productName": "Brazen and the Beast",
+            "author": "Sarah MacLean",
+            "price": 7
+        },
+        {
+            "id": 23,
+            "categoryId": 8,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/51G5bfAReZL._SX329_BO1,204,203,200_.jpg",
+            "productName": "Royal Holiday",
+            "author": "Jasmine Guillory",
+            "price": 15
+        },
+        {
+            "id": 24,
+            "categoryId": 8,
+            "picture": "https://m.media-amazon.com/images/I/41gRgM+T2iL.jpg",
+            "productName": "The Savior",
+            "author": "J.R. Ward",
+            "price": 8
+        },
+        {
+            "id": 25,
+            "categoryId": 9,
+            "picture": "https://images-na.ssl-images-amazon.com/images/I/41HQI3QQOcL._SX327_BO1,204,203,200_.jpg",
+            "productName": "The Testaments",
+            "author": "Margaret Atwood",
+            "price": 7
+        },
+        {
+            "id": 26,
+            "categoryId": 9,
+            "picture": "https://m.media-amazon.com/images/I/41nphb8vbPL.jpg",
+            "productName": "The Hunger Games Trilogy",
+            "author": "Suzanne Collins",
+            "price": 26
+        },
+        {
+            "id": 27,
+            "categoryId": 9,
+            "picture": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1572296688-410ZirPKXKL.jpg?crop=1xw:0.999xh;center,top&resize=320%3A%2A",
+            "productName": "1984",
+            "author": "George Orwell",
+            "price": 18
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Classics",
+            "seoUrl": "classics"
+        },
+        {
+            "id": 2,
+            "categoryName": "Graphic Novel",
+            "seoUrl": "graphic-novel"
+        },
+        {
+            "id": 3,
+            "categoryName": "Detective and Mystery",
+            "seoUrl": "detective-and-mystery"
+        },
+        {
+            "id": 4,
+            "categoryName": "Fantasy",
+            "seoUrl": "fantasy"
+        },
+        {
+            "id": 5,
+            "categoryName": "Historical Fiction",
+            "seoUrl": "historical-fction"
+        },
+        {
+            "id": 6,
+            "categoryName": "Horror",
+            "seoUrl": "horror"
+        },
+        {
+            "id": 7,
+            "categoryName": "Literary Fiction",
+            "seoUrl": "literary-fiction"
+        },
+        {
+            "id": 8,
+            "categoryName": "Romance",
+            "seoUrl": "romance"
+        },
+        {
+            "id": 9,
+            "categoryName": "Science Fiction",
+            "seoUrl": "science-fiction"
+        }
+    ]
+}
